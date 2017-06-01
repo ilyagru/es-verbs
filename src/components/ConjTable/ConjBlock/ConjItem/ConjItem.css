@@ -1,0 +1,21 @@
+.ConjItem {
+    display: flex;
+    justify-content: center;
+}
+
+.verbForm {
+    width: 180px;
+}
+
+.pronoun {
+    text-align: right;
+    color: #797979;
+    padding-right: 10px;
+    width: 150px;
+}
+
+@media (max-width: 450px) {
+    .verbForm {
+        width: 170px;
+    }
+}

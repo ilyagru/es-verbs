@@ -1,0 +1,14 @@
+.ConjTable {
+    padding: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 860px;
+    height: 100%;
+}
+
+@media (max-width: 1024px) {
+    .ConjTable {
+        max-width: 100%;
+        width: 100%;
+    }
+}

@@ -1,0 +1,20 @@
+.App {
+    display: -webkit-flex;
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0 auto;
+    max-width: 1120px;
+}
+
+.App .noVerbBlock {
+    padding: 20px;
+    height: 100%;
+    font-size: 20px;
+}
+
+@media (max-width: 1024px) {
+    .App .noVerbBlock {
+        max-width: 100%;
+        width: 100%;
+    }
+}

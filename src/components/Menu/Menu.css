@@ -1,0 +1,18 @@
+.Menu {
+    padding: 0px 20px 0 0;
+    width: 260px;
+}
+
+.Menu .verbInfo {
+    font-style: italic;
+    padding: 0 20px;
+    color: #6f6f6f;
+}
+
+@media (max-width: 1024px) {
+    .Menu {
+        padding: 0;
+        max-width: 100%;
+        width: 100%;
+    }
+}

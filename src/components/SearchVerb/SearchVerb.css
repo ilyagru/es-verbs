@@ -1,0 +1,18 @@
+.SearchVerb input {
+    padding: 20px;
+    border:  0px;
+    border-bottom: 1px solid #eee;
+    outline: none;
+    border-radius: 5px;
+    font-size: 24px;
+    border-bottom-left-radius: 0;
+    border-bottom-right-radius: 0;
+    width: 100%;
+    max-width: 100%;
+    color: #aa78fc;
+}
+
+.SearchVerb input::placeholder {
+    color: #797979;
+}
+

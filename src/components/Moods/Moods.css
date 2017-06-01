@@ -1,0 +1,22 @@
+.Moods select {
+    -webkit-appearance: none;
+    padding: 20px;
+    font-size: 18px;
+    border: 0px solid #eee;
+    border-top: none;
+    border-radius: 5px;
+    outline: 0;
+    font-weight: 500;
+    margin: 0;
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+    background: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" height="14" viewBox="0 0 29 14" width="29"><path fill="#475266" d="M9.37727 3.625l5.08154 6.93523L19.54036 3.625"/></svg>') no-repeat;
+    background-color: #fff;
+    background-position: 95% 50%;
+    width: 100%;
+    max-width: 100%;
+}
+
+.Moods select:focus {
+    background-image: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" height="14" viewBox="0 0 29 14" width="29"><path fill="#aa78fc" d="M9.37727 3.625l5.08154 6.93523L19.54036 3.625"/></svg>');
+}

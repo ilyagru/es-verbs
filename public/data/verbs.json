@@ -1,0 +1,2437 @@
+[{
+	"verb": "jorobar",
+	"translation": "to tease, to annoy",
+	"conjMoods": {
+		"indicativo": {
+			"Indicativo presente": {
+				"yo": "jorobo",
+				"tú": "jorobas",
+				"él/ella": "joroba",
+				"nosotros/as": "jorobamos",
+				"vosotros/as": "jorobáis",
+				"ellos/ellas": "joroban"
+			},
+			"Indicativo pretérito perfecto compuesto": {
+				"yo": "he jorobado",
+				"tú": "has jorobado",
+				"él/ella": "ha jorobado",
+				"nosotros/as": "hemos jorobado",
+				"vosotros/as": "habéis jorobado",
+				"ellos/ellas": "han jorobado"
+			},
+			"Indicativo pretérito imperfecto": {
+				"yo": "jorobaba",
+				"tú": "jorobabas",
+				"él/ella": "jorobaba",
+				"nosotros/as": "jorobábamos",
+				"vosotros/as": "jorobabais",
+				"ellos/ellas": "jorobaban"
+			},
+			"Indicativo pretérito pluscuamperfecto": {
+				"yo": "había jorobado",
+				"tú": "habías jorobado",
+				"él/ella": "había jorobado",
+				"nosotros/as": "habíamos jorobado",
+				"vosotros/as": "habíais jorobado",
+				"ellos/ellas": "habían jorobado"
+			},
+			"Indicativo pretérito perfecto simple": {
+				"yo": "jorobé",
+				"tú": "jorobaste",
+				"él/ella": "jorobó",
+				"nosotros/as": "jorobamos",
+				"vosotros/as": "jorobasteis",
+				"ellos/ellas": "jorobaron"
+			},
+			"Indicativo pretérito anterior": {
+				"yo": "hube jorobado",
+				"tú": "hubiste jorobado",
+				"él/ella": "hubo jorobado",
+				"nosotros/as": "hubimos jorobado",
+				"vosotros/as": "hubisteis jorobado",
+				"ellos/ellas": "hubieron jorobado"
+			},
+			"Indicativo futuro": {
+				"yo": "jorobaré",
+				"tú": "jorobarás",
+				"él/ella": "jorobará",
+				"nosotros/as": "jorobaremos",
+				"vosotros/as": "jorobaréis",
+				"ellos/ellas": "jorobarán"
+			},
+			"Indicativo futuro perfecto": {
+				"yo": "habré jorobado",
+				"tú": "habrás jorobado",
+				"él/ella": "habrá jorobado",
+				"nosotros/as": "habremos jorobado",
+				"vosotros/as": "habréis jorobado",
+				"ellos/ellas": "habrán jorobado"
+			}
+		},
+		"subjuntivo": {
+			"Subjuntivo presente": {
+				"yo": "jorobe",
+				"tú": "jorobes",
+				"él/ella": "jorobe",
+				"nosotros/as": "jorobemos",
+				"vosotros/as": "jorobéis",
+				"ellos/ellas": "joroben"
+			},
+			"Subjuntivo pretérito perfecto": {
+				"yo": "haya jorobado",
+				"tú": "hayas jorobado",
+				"él/ella": "haya jorobado",
+				"nosotros/as": "hayamos jorobado",
+				"vosotros/as": "hayáis jorobado",
+				"ellos/ellas": "hayan jorobado"
+			},
+			"Subjuntivo pretérito imperfecto 1": {
+				"yo": "jorobara",
+				"tú": "jorobaras",
+				"él/ella": "jorobara",
+				"nosotros/as": "jorobáramos",
+				"vosotros/as": "jorobarais",
+				"ellos/ellas": "jorobaran"
+			},
+			"Subjuntivo pretérito imperfecto 2": {
+				"yo": "jorobase",
+				"tú": "jorobases",
+				"él/ella": "jorobase",
+				"nosotros/as": "jorobásemos",
+				"vosotros/as": "jorobaseis",
+				"ellos/ellas": "jorobasen"
+			},
+			"Subjuntivo pretérito pluscuamperfecto 1": {
+				"yo": "hubiera jorobado",
+				"tú": "hubieras jorobado",
+				"él/ella": "hubiera jorobado",
+				"nosotros/as": "hubiéramos jorobado",
+				"vosotros/as": "hubierais jorobado",
+				"ellos/ellas": "hubieran jorobado"
+			},
+			"Subjuntivo pretérito pluscuamperfecto 2": {
+				"yo": "hubiese jorobado",
+				"tú": "hubieses jorobado",
+				"él/ella": "hubiese jorobado",
+				"nosotros/as": "hubiésemos jorobado",
+				"vosotros/as": "hubieseis jorobado",
+				"ellos/ellas": "hubiesen jorobado"
+			},
+			"Subjuntivo futuro": {
+				"yo": "jorobare",
+				"tú": "jorobares",
+				"él/ella": "jorobare",
+				"nosotros/as": "jorobáremos",
+				"vosotros/as": "jorobareis",
+				"ellos/ellas": "jorobaren"
+			},
+			"Subjuntivo futuro perfecto": {
+				"yo": "hubiere jorobado",
+				"tú": "hubieres jorobado",
+				"él/ella": "hubiere jorobado",
+				"nosotros/as": "hubiéremos jorobado",
+				"vosotros/as": "hubiereis jorobado",
+				"ellos/ellas": "hubieren jorobado"
+			}
+		},
+		"potencial": {
+			"Potencial Simple": {
+				"yo": "jorobaría",
+				"tú": "jorobarías",
+				"él/ella": "jorobaría",
+				"nosotros/as": "jorobaríamos",
+				"vosotros/as": "jorobaríais",
+				"ellos/ellas": "jorobarían"
+			},
+			"Potencial compuesto": {
+				"yo": "habría jorobado",
+				"tú": "habrías jorobado",
+				"él/ella": "habría jorobado",
+				"nosotros/as": "habríamos jorobado",
+				"vosotros/as": "habríais jorobado",
+				"ellos/ellas": "habrían jorobado"
+			}
+		},
+		"gerundio": {
+			"Gerundio": {
+				"general": "jorobando"
+			}
+		},
+		"participio": {
+			"Participio": {
+				"general": "jorobado"
+			}
+		},
+		"imperativo": {
+			"Imperativo": {
+				"tú": "joroba",
+				"usted": "jorobe",
+				"nosotros/as": "jorobemos",
+				"vosotros/as": "jorobad",
+				"ustedes": "joroben"
+			}
+		}
+	}
+}, {
+	"verb": "estar",
+	"translation": "to be, to stay",
+	"conjMoods": {
+		"indicativo": {
+			"Indicativo presente": {
+				"yo": "estoy",
+				"tú": "estás",
+				"él/ella": "está",
+				"nosotros/as": "estamos",
+				"vosotros/as": "estáis",
+				"ellos/ellas": "están"
+			},
+			"Indicativo pretérito perfecto compuesto": {
+				"yo": "he estado",
+				"tú": "has estado",
+				"él/ella": "ha estado",
+				"nosotros/as": "hemos estado",
+				"vosotros/as": "habéis estado",
+				"ellos/ellas": "han estado"
+			},
+			"Indicativo pretérito imperfecto": {
+				"yo": "estaba",
+				"tú": "estabas",
+				"él/ella": "estaba",
+				"nosotros/as": "estábamos",
+				"vosotros/as": "estabais",
+				"ellos/ellas": "estaban"
+			},
+			"Indicativo pretérito pluscuamperfecto": {
+				"yo": "había estado",
+				"tú": "habías estado",
+				"él/ella": "había estado",
+				"nosotros/as": "habíamos estado",
+				"vosotros/as": "habíais estado",
+				"ellos/ellas": "habían estado"
+			},
+			"Indicativo pretérito perfecto simple": {
+				"yo": "estuve",
+				"tú": "estuviste",
+				"él/ella": "estuvo",
+				"nosotros/as": "estuvimos",
+				"vosotros/as": "estuvisteis",
+				"ellos/ellas": "estuvieron"
+			},
+			"Indicativo pretérito anterior": {
+				"yo": "hube estado",
+				"tú": "hubiste estado",
+				"él/ella": "hubo estado",
+				"nosotros/as": "hubimos estado",
+				"vosotros/as": "hubisteis estado",
+				"ellos/ellas": "hubieron estado"
+			},
+			"Indicativo futuro": {
+				"yo": "estaré",
+				"tú": "estarás",
+				"él/ella": "estará",
+				"nosotros/as": "estaremos",
+				"vosotros/as": "estaréis",
+				"ellos/ellas": "estarán"
+			},
+			"Indicativo futuro perfecto": {
+				"yo": "habré estado",
+				"tú": "habrás estado",
+				"él/ella": "habrá estado",
+				"nosotros/as": "habremos estado",
+				"vosotros/as": "habréis estado",
+				"ellos/ellas": "habrán estado"
+			}
+		},
+		"subjuntivo": {
+			"Subjuntivo presente": {
+				"yo": "esté",
+				"tú": "estés",
+				"él/ella": "esté",
+				"nosotros/as": "estemos",
+				"vosotros/as": "estéis",
+				"ellos/ellas": "estén"
+			},
+			"Subjuntivo pretérito perfecto": {
+				"yo": "haya estado",
+				"tú": "hayas estado",
+				"él/ella": "haya estado",
+				"nosotros/as": "hayamos estado",
+				"vosotros/as": "hayáis estado",
+				"ellos/ellas": "hayan estado"
+			},
+			"Subjuntivo pretérito imperfecto 1": {
+				"yo": "estuviera",
+				"tú": "estuvieras",
+				"él/ella": "estuviera",
+				"nosotros/as": "estuviéramos",
+				"vosotros/as": "estuvierais",
+				"ellos/ellas": "estuvieran"
+			},
+			"Subjuntivo pretérito imperfecto 2": {
+				"yo": "estuviese",
+				"tú": "estuvieses",
+				"él/ella": "estuviese",
+				"nosotros/as": "estuviésemos",
+				"vosotros/as": "estuvieseis",
+				"ellos/ellas": "estuviesen"
+			},
+			"Subjuntivo pretérito pluscuamperfecto 1": {
+				"yo": "hubiera estado",
+				"tú": "hubieras estado",
+				"él/ella": "hubiera estado",
+				"nosotros/as": "hubiéramos estado",
+				"vosotros/as": "hubierais estado",
+				"ellos/ellas": "hubieran estado"
+			},
+			"Subjuntivo pretérito pluscuamperfecto 2": {
+				"yo": "hubiese estado",
+				"tú": "hubieses estado",
+				"él/ella": "hubiese estado",
+				"nosotros/as": "hubiésemos estado",
+				"vosotros/as": "hubieseis estado",
+				"ellos/ellas": "hubiesen estado"
+			},
+			"Subjuntivo futuro": {
+				"yo": "estuviere",
+				"tú": "estuvieres",
+				"él/ella": "estuviere",
+				"nosotros/as": "estuviéremos",
+				"vosotros/as": "estuviereis",
+				"ellos/ellas": "estuvieren"
+			},
+			"Subjuntivo futuro perfecto": {
+				"yo": "hubiere estado",
+				"tú": "hubieres estado",
+				"él/ella": "hubiere estado",
+				"nosotros/as": "hubiéremos estado",
+				"vosotros/as": "hubiereis estado",
+				"ellos/ellas": "hubieren estado"
+			}
+		},
+		"potencial": {
+			"Potencial Simple": {
+				"yo": "estaría",
+				"tú": "estarías",
+				"él/ella": "estaría",
+				"nosotros/as": "estaríamos",
+				"vosotros/as": "estaríais",
+				"ellos/ellas": "estarían"
+			},
+			"Potencial compuesto": {
+				"yo": "habría estado",
+				"tú": "habrías estado",
+				"él/ella": "habría estado",
+				"nosotros/as": "habríamos estado",
+				"vosotros/as": "habríais estado",
+				"ellos/ellas": "habrían estado"
+			}
+		},
+		"gerundio": {
+			"Gerundio": {
+				"general": "estando"
+			}
+		},
+		"participio": {
+			"Participio": {
+				"general": "estado"
+			}
+		},
+		"imperativo": {
+			"Imperativo": {
+				"tú": "está",
+				"usted": "esté",
+				"nosotros/as": "estemos",
+				"vosotros/as": "estad",
+				"ustedes": "estén"
+			}
+		}
+	}
+}, {
+	"verb": "ir",
+	"translation": "to go",
+	"conjMoods": {
+		"indicativo": {
+			"Indicativo presente": {
+				"yo": "voy",
+				"tú": "va",
+				"él/ella": "vas",
+				"nosotros/as": "vamos",
+				"vosotros/as": "vais",
+				"ellos/ellas": "van"
+			},
+			"Indicativo pretérito perfecto compuesto": {
+				"yo": "he ido",
+				"tú": "has ido",
+				"él/ella": "ha ido",
+				"nosotros/as": "hemos ido",
+				"vosotros/as": "habéis ido",
+				"ellos/ellas": "han ido"
+			},
+			"Indicativo pretérito imperfecto": {
+				"yo": "iba",
+				"tú": "ibas",
+				"él/ella": "iba",
+				"nosotros/as": "íbamos",
+				"vosotros/as": "ibais",
+				"ellos/ellas": "iban"
+			},
+			"Indicativo pretérito pluscuamperfecto": {
+				"yo": "había ido",
+				"tú": "habías ido",
+				"él/ella": "había ido",
+				"nosotros/as": "habíamos ido",
+				"vosotros/as": "habíais ido",
+				"ellos/ellas": "habían ido"
+			},
+			"Indicativo pretérito perfecto simple": {
+				"yo": "fui",
+				"tú": "fuiste",
+				"él/ella": "fue",
+				"nosotros/as": "fuimos",
+				"vosotros/as": "fuisteis",
+				"ellos/ellas": "fueron"
+			},
+			"Indicativo pretérito anterior": {
+				"yo": "hube ido",
+				"tú": "hubiste ido",
+				"él/ella": "hubo ido",
+				"nosotros/as": "hubimos ido",
+				"vosotros/as": "hubisteis ido",
+				"ellos/ellas": "hubieron ido"
+			},
+			"Indicativo futuro": {
+				"yo": "iré",
+				"tú": "irás",
+				"él/ella": "irá",
+				"nosotros/as": "iremos",
+				"vosotros/as": "iréis",
+				"ellos/ellas": "irán"
+			},
+			"Indicativo futuro perfecto": {
+				"yo": "habré ido",
+				"tú": "habrás ido",
+				"él/ella": "habrá ido",
+				"nosotros/as": "habremos ido",
+				"vosotros/as": "habréis ido",
+				"ellos/ellas": "habrán ido"
+			}
+		},
+		"subjuntivo": {
+			"Subjuntivo presente": {
+				"yo": "vaya",
+				"tú": "vayas",
+				"él/ella": "vaya",
+				"nosotros/as": "vayamos",
+				"vosotros/as": "vayáis",
+				"ellos/ellas": "vayan"
+			},
+			"Subjuntivo pretérito perfecto": {
+				"yo": "haya ido",
+				"tú": "hayas ido",
+				"él/ella": "haya ido",
+				"nosotros/as": "hayamos ido",
+				"vosotros/as": "hayáis ido",
+				"ellos/ellas": "hayan ido"
+			},
+			"Subjuntivo pretérito imperfecto 1": {
+				"yo": "fuera",
+				"tú": "fueras",
+				"él/ella": "fuera",
+				"nosotros/as": "fuéramos",
+				"vosotros/as": "fuerais",
+				"ellos/ellas": "fueran"
+			},
+			"Subjuntivo pretérito imperfecto 2": {
+				"yo": "fuese",
+				"tú": "fueses",
+				"él/ella": "fuese",
+				"nosotros/as": "fuésemos",
+				"vosotros/as": "fueseis",
+				"ellos/ellas": "fuesen"
+			},
+			"Subjuntivo pretérito pluscuamperfecto 1": {
+				"yo": "hubiera ido",
+				"tú": "hubieras ido",
+				"él/ella": "hubiera ido",
+				"nosotros/as": "hubiéramos ido",
+				"vosotros/as": "hubierais ido",
+				"ellos/ellas": "hubieran ido"
+			},
+			"Subjuntivo pretérito pluscuamperfecto 2": {
+				"yo": "hubiese ido",
+				"tú": "hubieses ido",
+				"él/ella": "hubiese ido",
+				"nosotros/as": "hubiésemos ido",
+				"vosotros/as": "hubieseis ido",
+				"ellos/ellas": "hubiesen ido"
+			},
+			"Subjuntivo futuro": {
+				"yo": "fuere",
+				"tú": "fueres",
+				"él/ella": "fuere",
+				"nosotros/as": "fuéremos",
+				"vosotros/as": "fuereis",
+				"ellos/ellas": "fueren"
+			},
+			"Subjuntivo futuro perfecto": {
+				"yo": "hubiere ido",
+				"tú": "hubieres ido",
+				"él/ella": "hubiere ido",
+				"nosotros/as": "hubiéremos ido",
+				"vosotros/as": "hubiereis ido",
+				"ellos/ellas": "hubieren ido"
+			}
+		},
+		"potencial": {
+			"Potencial Simple": {
+				"yo": "iría",
+				"tú": "irías",
+				"él/ella": "iría",
+				"nosotros/as": "iríamos",
+				"vosotros/as": "iríais",
+				"ellos/ellas": "irían"
+			},
+			"Potencial compuesto": {
+				"yo": "habría ido",
+				"tú": "habrías ido",
+				"él/ella": "habría ido",
+				"nosotros/as": "habríamos ido",
+				"vosotros/as": "habríais ido",
+				"ellos/ellas": "habrían ido"
+			}
+		},
+		"gerundio": {
+			"Gerundio": {
+				"general": "yendo"
+			}
+		},
+		"participio": {
+			"Participio": {
+				"general": "ido"
+			}
+		},
+		"imperativo": {
+			"Imperativo": {
+				"tú": "ve",
+				"usted": "vaya",
+				"nosotros/as": "vamos; vayamos",
+				"vosotros/as": "id",
+				"ustedes": "vayan"
+			}
+		}
+	}
+}, {
+	"verb": "hacer",
+	"translation": "to do, to make, to be up to",
+	"conjMoods": {
+		"indicativo": {
+			"Indicativo presente": {
+				"yo": "hago",
+				"tú": "haces",
+				"él/ella": "hace",
+				"nosotros/as": "hacemos",
+				"vosotros/as": "hacéis",
+				"ellos/ellas": "hacen"
+			},
+			"Indicativo pretérito perfecto compuesto": {
+				"yo": "he hecho",
+				"tú": "has hecho",
+				"él/ella": "ha hecho",
+				"nosotros/as": "hemos hecho",
+				"vosotros/as": "habéis hecho",
+				"ellos/ellas": "han hecho"
+			},
+			"Indicativo pretérito imperfecto": {
+				"yo": "hacía",
+				"tú": "hacías",
+				"él/ella": "hacía",
+				"nosotros/as": "hacíamos",
+				"vosotros/as": "hacíais",
+				"ellos/ellas": "hacían"
+			},
+			"Indicativo pretérito pluscuamperfecto": {
+				"yo": "había hecho",
+				"tú": "habías hecho",
+				"él/ella": "había hecho",
+				"nosotros/as": "habíamos hecho",
+				"vosotros/as": "habíais hecho",
+				"ellos/ellas": "habían hecho"
+			},
+			"Indicativo pretérito perfecto simple": {
+				"yo": "hice",
+				"tú": "hiciste",
+				"él/ella": "hizo",
+				"nosotros/as": "hicimos",
+				"vosotros/as": "hicisteis",
+				"ellos/ellas": "hicieron"
+			},
+			"Indicativo pretérito anterior": {
+				"yo": "hube hecho",
+				"tú": "hubiste hecho",
+				"él/ella": "hubo hecho",
+				"nosotros/as": "hubimos hecho",
+				"vosotros/as": "hubisteis hecho",
+				"ellos/ellas": "hubieron hecho"
+			},
+			"Indicativo futuro": {
+				"yo": "haré",
+				"tú": "harás",
+				"él/ella": "hará",
+				"nosotros/as": "haremos",
+				"vosotros/as": "haréis",
+				"ellos/ellas": "harán"
+			},
+			"Indicativo futuro perfecto": {
+				"yo": "habré hecho",
+				"tú": "habrás hecho",
+				"él/ella": "habrá hecho",
+				"nosotros/as": "habremos hecho",
+				"vosotros/as": "habréis hecho",
+				"ellos/ellas": "habrán hecho"
+			}
+		},
+		"subjuntivo": {
+			"Subjuntivo presente": {
+				"yo": "haga",
+				"tú": "hagas",
+				"él/ella": "haga",
+				"nosotros/as": "hagamos",
+				"vosotros/as": "hagáis",
+				"ellos/ellas": "hagan"
+			},
+			"Subjuntivo pretérito perfecto": {
+				"yo": "haya hecho",
+				"tú": "hayas hecho",
+				"él/ella": "haya hecho",
+				"nosotros/as": "hayamos hecho",
+				"vosotros/as": "hayáis hecho",
+				"ellos/ellas": "hayan hecho"
+			},
+			"Subjuntivo pretérito imperfecto 1": {
+				"yo": "hiciera",
+				"tú": "hicieras",
+				"él/ella": "hiciera",
+				"nosotros/as": "hicieramos",
+				"vosotros/as": "hicierais",
+				"ellos/ellas": "hicieran"
+			},
+			"Subjuntivo pretérito imperfecto 2": {
+				"yo": "hiciese",
+				"tú": "hicieses",
+				"él/ella": "hiciese",
+				"nosotros/as": "hiciésemos",
+				"vosotros/as": "hicieseis",
+				"ellos/ellas": "hiciesen"
+			},
+			"Subjuntivo pretérito pluscuamperfecto 1": {
+				"yo": "hubiera hecho",
+				"tú": "hubieras hecho",
+				"él/ella": "hubiera hecho",
+				"nosotros/as": "hubiéramos hecho",
+				"vosotros/as": "hubierais hecho",
+				"ellos/ellas": "hubieran hecho"
+			},
+			"Subjuntivo pretérito pluscuamperfecto 2": {
+				"yo": "hubiese hecho",
+				"tú": "hubieses hecho",
+				"él/ella": "hubiese hecho",
+				"nosotros/as": "hubiésemos hecho",
+				"vosotros/as": "hubieseis hecho",
+				"ellos/ellas": "hubiesen hecho"
+			},
+			"Subjuntivo futuro": {
+				"yo": "hiciere",
+				"tú": "hicieres",
+				"él/ella": "hiciere",
+				"nosotros/as": "hiciéremos",
+				"vosotros/as": "hiciereis",
+				"ellos/ellas": "hicieren"
+			},
+			"Subjuntivo futuro perfecto": {
+				"yo": "hubiere hecho",
+				"tú": "hubieres hecho",
+				"él/ella": "hubiere hecho",
+				"nosotros/as": "hubiéremos hecho",
+				"vosotros/as": "hubiereis hecho",
+				"ellos/ellas": "hubieren hecho"
+			}
+		},
+		"potencial": {
+			"Potencial Simple": {
+				"yo": "haría",
+				"tú": "harías",
+				"él/ella": "haría",
+				"nosotros/as": "haríamos",
+				"vosotros/as": "haríais",
+				"ellos/ellas": "harían"
+			},
+			"Potencial compuesto": {
+				"yo": "habría hecho",
+				"tú": "habrías hecho",
+				"él/ella": "habría hecho",
+				"nosotros/as": "habríamos hecho",
+				"vosotros/as": "habríais hecho",
+				"ellos/ellas": "habrían hecho"
+			}
+		},
+		"gerundio": {
+			"Gerundio": {
+				"general": "haciendo"
+			}
+		},
+		"participio": {
+			"Participio": {
+				"general": "hecho"
+			}
+		},
+		"imperativo": {
+			"Imperativo": {
+				"tú": "haz",
+				"usted": "haga",
+				"nosotros/as": "hagamos",
+				"vosotros/as": "haced",
+				"ustedes": "hagan"
+			}
+		}
+	}
+}, {
+	"verb": "ser",
+	"translation": "to be",
+	"conjMoods": {
+		"indicativo": {
+			"Indicativo presente": {
+				"yo": "soy",
+				"tú": "eres",
+				"él/ella": "es",
+				"nosotros/as": "somos",
+				"vosotros/as": "sois",
+				"ellos/ellas": "son"
+			},
+			"Indicativo pretérito perfecto compuesto": {
+				"yo": "he sido",
+				"tú": "has sido",
+				"él/ella": "ha sido",
+				"nosotros/as": "hemos sido",
+				"vosotros/as": "habéis sido",
+				"ellos/ellas": "han sido"
+			},
+			"Indicativo pretérito imperfecto": {
+				"yo": "era",
+				"tú": "eras",
+				"él/ella": "era",
+				"nosotros/as": "éramos",
+				"vosotros/as": "erais",
+				"ellos/ellas": "eran"
+			},
+			"Indicativo pretérito pluscuamperfecto": {
+				"yo": "había sido",
+				"tú": "habías sido",
+				"él/ella": "había sido",
+				"nosotros/as": "habíamos sido",
+				"vosotros/as": "habíais sido",
+				"ellos/ellas": "habían sido"
+			},
+			"Indicativo pretérito perfecto simple": {
+				"yo": "fui",
+				"tú": "fuiste",
+				"él/ella": "fue",
+				"nosotros/as": "fuimos",
+				"vosotros/as": "fuisteis",
+				"ellos/ellas": "fueron"
+			},
+			"Indicativo pretérito anterior": {
+				"yo": "hube sido",
+				"tú": "hubiste sido",
+				"él/ella": "hubo sido",
+				"nosotros/as": "hubimos sido",
+				"vosotros/as": "hubisteis sido",
+				"ellos/ellas": "hubieron sido"
+			},
+			"Indicativo futuro": {
+				"yo": "seré",
+				"tú": "serás",
+				"él/ella": "será",
+				"nosotros/as": "seremos",
+				"vosotros/as": "seréis",
+				"ellos/ellas": "serán"
+			},
+			"Indicativo futuro perfecto": {
+				"yo": "habré sido",
+				"tú": "habrás sido",
+				"él/ella": "habrá sido",
+				"nosotros/as": "habremos sido",
+				"vosotros/as": "habréis sido",
+				"ellos/ellas": "habrán sido"
+			}
+		},
+		"subjuntivo": {
+			"Subjuntivo presente": {
+				"yo": "sea",
+				"tú": "seas",
+				"él/ella": "sea",
+				"nosotros/as": "seamos",
+				"vosotros/as": "seáis",
+				"ellos/ellas": "sean"
+			},
+			"Subjuntivo pretérito perfecto": {
+				"yo": "haya sido",
+				"tú": "hayas sido",
+				"él/ella": "haya sido",
+				"nosotros/as": "hayamos sido",
+				"vosotros/as": "hayáis sido",
+				"ellos/ellas": "hayan sido"
+			},
+			"Subjuntivo pretérito imperfecto 1": {
+				"yo": "fuera",
+				"tú": "fueras",
+				"él/ella": "fuera",
+				"nosotros/as": "fuéramos",
+				"vosotros/as": "fuerais",
+				"ellos/ellas": "fueran"
+			},
+			"Subjuntivo pretérito imperfecto 2": {
+				"yo": "fuese",
+				"tú": "fueses",
+				"él/ella": "fuese",
+				"nosotros/as": "fuésemos",
+				"vosotros/as": "fueseis",
+				"ellos/ellas": "fuesen"
+			},
+			"Subjuntivo pretérito pluscuamperfecto 1": {
+				"yo": "hubiera sido",
+				"tú": "hubieras sido",
+				"él/ella": "hubiera sido",
+				"nosotros/as": "hubiéramos sido",
+				"vosotros/as": "hubierais sido",
+				"ellos/ellas": "hubieran sido"
+			},
+			"Subjuntivo pretérito pluscuamperfecto 2": {
+				"yo": "hubiese sido",
+				"tú": "hubieses sido",
+				"él/ella": "hubiese sido",
+				"nosotros/as": "hubiésemos sido",
+				"vosotros/as": "hubieseis sido",
+				"ellos/ellas": "hubiesen sido"
+			},
+			"Subjuntivo futuro": {
+				"yo": "fuere",
+				"tú": "fueres",
+				"él/ella": "fuere",
+				"nosotros/as": "fuéremos",
+				"vosotros/as": "fuereis",
+				"ellos/ellas": "fueren"
+			},
+			"Subjuntivo futuro perfecto": {
+				"yo": "hubiere sido",
+				"tú": "hubieres sido",
+				"él/ella": "hubiere sido",
+				"nosotros/as": "hubiéremos sido",
+				"vosotros/as": "hubiereis sido",
+				"ellos/ellas": "hubieren sido"
+			}
+		},
+		"potencial": {
+			"Potencial Simple": {
+				"yo": "sería",
+				"tú": "serías",
+				"él/ella": "sería",
+				"nosotros/as": "seríamos",
+				"vosotros/as": "seríais",
+				"ellos/ellas": "serían"
+			},
+			"Potencial compuesto": {
+				"yo": "habría sido",
+				"tú": "habrías sido",
+				"él/ella": "habría sido",
+				"nosotros/as": "habríamos sido",
+				"vosotros/as": "habríais sido",
+				"ellos/ellas": "habrían sido"
+			}
+		},
+		"gerundio": {
+			"Gerundio": {
+				"general": "siendo"
+			}
+		},
+		"participio": {
+			"Participio": {
+				"general": "sido"
+			}
+		},
+		"imperativo": {
+			"Imperativo": {
+				"tú": "sé",
+				"usted": "sea",
+				"nosotros/as": "seamos",
+				"vosotros/as": "sed",
+				"ustedes": "sean"
+			}
+		}
+	}
+}, {
+	"verb": "tener",
+	"translation": "to have, to have got, ain't (has not), ain't (have not)",
+	"conjMoods": {
+		"indicativo": {
+			"Indicativo presente": {
+				"yo": "tengo",
+				"tú": "tienes",
+				"él/ella": "tiene",
+				"nosotros/as": "tenemos",
+				"vosotros/as": "tenéis",
+				"ellos/ellas": "tienen"
+			},
+			"Indicativo pretérito perfecto compuesto": {
+				"yo": "he tenido",
+				"tú": "has tenido",
+				"él/ella": "ha tenido",
+				"nosotros/as": "hemos tenido",
+				"vosotros/as": "habéis tenido",
+				"ellos/ellas": "han tenido"
+			},
+			"Indicativo pretérito imperfecto": {
+				"yo": "tenía",
+				"tú": "tenías",
+				"él/ella": "tenía",
+				"nosotros/as": "teníamos",
+				"vosotros/as": "teníais",
+				"ellos/ellas": "tenían"
+			},
+			"Indicativo pretérito pluscuamperfecto": {
+				"yo": "había tenido",
+				"tú": "habías tenido",
+				"él/ella": "había tenido",
+				"nosotros/as": "habíamos tenido",
+				"vosotros/as": "habíais tenido",
+				"ellos/ellas": "habían tenido"
+			},
+			"Indicativo pretérito perfecto simple": {
+				"yo": "tuve",
+				"tú": "tuviste",
+				"él/ella": "tuvo",
+				"nosotros/as": "tuvimos",
+				"vosotros/as": "tuvisteis",
+				"ellos/ellas": "tuvieron"
+			},
+			"Indicativo pretérito anterior": {
+				"yo": "hube tenido",
+				"tú": "hubiste tenido",
+				"él/ella": "hubo tenido",
+				"nosotros/as": "hubimos tenido",
+				"vosotros/as": "hubisteis tenido",
+				"ellos/ellas": "hubieron tenido"
+			},
+			"Indicativo futuro": {
+				"yo": "tendré",
+				"tú": "tendrás",
+				"él/ella": "tendrá",
+				"nosotros/as": "tendremos",
+				"vosotros/as": "tendréis",
+				"ellos/ellas": "tendrán"
+			},
+			"Indicativo futuro perfecto": {
+				"yo": "habré tenido",
+				"tú": "habrás tenido",
+				"él/ella": "habrá tenido",
+				"nosotros/as": "habremos tenido",
+				"vosotros/as": "habréis tenido",
+				"ellos/ellas": "habrán tenido"
+			}
+		},
+		"subjuntivo": {
+			"Subjuntivo presente": {
+				"yo": "tenga",
+				"tú": "tengas",
+				"él/ella": "tenga",
+				"nosotros/as": "tengamos",
+				"vosotros/as": "tengáis",
+				"ellos/ellas": "tengan"
+			},
+			"Subjuntivo pretérito perfecto": {
+				"yo": "haya tenido",
+				"tú": "hayas tenido",
+				"él/ella": "haya tenido",
+				"nosotros/as": "hayamos tenido",
+				"vosotros/as": "hayáis tenido",
+				"ellos/ellas": "hayan tenido"
+			},
+			"Subjuntivo pretérito imperfecto 1": {
+				"yo": "tuviera",
+				"tú": "tuvieras",
+				"él/ella": "tuviera",
+				"nosotros/as": "tuviéramos",
+				"vosotros/as": "tuvierais",
+				"ellos/ellas": "tuvieran"
+			},
+			"Subjuntivo pretérito imperfecto 2": {
+				"yo": "tuviese",
+				"tú": "tuvieses",
+				"él/ella": "tuviese",
+				"nosotros/as": "tuviésemos",
+				"vosotros/as": "tuvieseis",
+				"ellos/ellas": "tuviesen"
+			},
+			"Subjuntivo pretérito pluscuamperfecto 1": {
+				"yo": "hubiera tenido",
+				"tú": "hubieras tenido",
+				"él/ella": "hubiera tenido",
+				"nosotros/as": "hubiéramos tenido",
+				"vosotros/as": "hubierais tenido",
+				"ellos/ellas": "hubieran tenido"
+			},
+			"Subjuntivo pretérito pluscuamperfecto 2": {
+				"yo": "hubiese tenido",
+				"tú": "hubieses tenido",
+				"él/ella": "hubiese tenido",
+				"nosotros/as": "hubiésemos tenido",
+				"vosotros/as": "hubieseis tenido",
+				"ellos/ellas": "hubiesen tenido"
+			},
+			"Subjuntivo futuro": {
+				"yo": "tuviere",
+				"tú": "tuvieres",
+				"él/ella": "tuviere",
+				"nosotros/as": "tuviéremos",
+				"vosotros/as": "tuviereis",
+				"ellos/ellas": "tuvieren"
+			},
+			"Subjuntivo futuro perfecto": {
+				"yo": "hubiere tenido",
+				"tú": "hubieres tenido",
+				"él/ella": "hubiere tenido",
+				"nosotros/as": "hubiéremos tenido",
+				"vosotros/as": "hubiereis tenido",
+				"ellos/ellas": "hubieren tenido"
+			}
+		},
+		"potencial": {
+			"Potencial Simple": {
+				"yo": "tendría",
+				"tú": "tendrías",
+				"él/ella": "tendría",
+				"nosotros/as": "tendríamos",
+				"vosotros/as": "tendríais",
+				"ellos/ellas": "tendrían"
+			},
+			"Potencial compuesto": {
+				"yo": "habría tenido",
+				"tú": "habrías tenido",
+				"él/ella": "habría tenido",
+				"nosotros/as": "habríamos tenido",
+				"vosotros/as": "habríais tenido",
+				"ellos/ellas": "habrían tenido"
+			}
+		},
+		"gerundio": {
+			"Gerundio": {
+				"general": "teniendo"
+			}
+		},
+		"participio": {
+			"Participio": {
+				"general": "tenido"
+			}
+		},
+		"imperativo": {
+			"Imperativo": {
+				"tú": "ten",
+				"usted": "tenga",
+				"nosotros/as": "tengamos",
+				"vosotros/as": "tened",
+				"ustedes": "tengan"
+			}
+		}
+	}
+}, {
+	"verb": "decir",
+	"translation": "to think, to mention, to say, to suggest, to tell, to speak",
+	"conjMoods": {
+		"indicativo": {
+			"Indicativo presente": {
+				"yo": "digo",
+				"tú": "dices",
+				"él/ella": "dice",
+				"nosotros/as": "decimos",
+				"vosotros/as": "decís",
+				"ellos/ellas": "dicen"
+			},
+			"Indicativo pretérito perfecto compuesto": {
+				"yo": "he dicho",
+				"tú": "has dicho",
+				"él/ella": "ha dicho",
+				"nosotros/as": "hemos dicho",
+				"vosotros/as": "habéis dicho",
+				"ellos/ellas": "han dicho"
+			},
+			"Indicativo pretérito imperfecto": {
+				"yo": "decía",
+				"tú": "decías",
+				"él/ella": "decía",
+				"nosotros/as": "decíamos",
+				"vosotros/as": "decíais",
+				"ellos/ellas": "decían"
+			},
+			"Indicativo pretérito pluscuamperfecto": {
+				"yo": "había dicho",
+				"tú": "habías dicho",
+				"él/ella": "había dicho",
+				"nosotros/as": "habíamos dicho",
+				"vosotros/as": "habíais dicho",
+				"ellos/ellas": "habían dicho"
+			},
+			"Indicativo pretérito perfecto simple": {
+				"yo": "dije",
+				"tú": "dijiste",
+				"él/ella": "dijo",
+				"nosotros/as": "dijimos",
+				"vosotros/as": "dijisteis",
+				"ellos/ellas": "dijeron"
+			},
+			"Indicativo pretérito anterior": {
+				"yo": "hube dicho",
+				"tú": "hubiste dicho",
+				"él/ella": "hubo dicho",
+				"nosotros/as": "hubimos dicho",
+				"vosotros/as": "hubisteis dicho",
+				"ellos/ellas": "hubieron dicho"
+			},
+			"Indicativo futuro": {
+				"yo": "diré",
+				"tú": "dirás",
+				"él/ella": "dirá",
+				"nosotros/as": "diremos",
+				"vosotros/as": "diréis",
+				"ellos/ellas": "dirán"
+			},
+			"Indicativo futuro perfecto": {
+				"yo": "habré dicho",
+				"tú": "habrás dicho",
+				"él/ella": "habrá dicho",
+				"nosotros/as": "habremos dicho",
+				"vosotros/as": "habréis dicho",
+				"ellos/ellas": "habrán dicho"
+			}
+		},
+		"subjuntivo": {
+			"Subjuntivo presente": {
+				"yo": "diga",
+				"tú": "digas",
+				"él/ella": "diga",
+				"nosotros/as": "digamos",
+				"vosotros/as": "digáis",
+				"ellos/ellas": "digan"
+			},
+			"Subjuntivo pretérito perfecto": {
+				"yo": "haya dicho",
+				"tú": "hayas dicho",
+				"él/ella": "haya dicho",
+				"nosotros/as": "hayamos dicho",
+				"vosotros/as": "hayáis dicho",
+				"ellos/ellas": "hayan dicho"
+			},
+			"Subjuntivo pretérito imperfecto 1": {
+				"yo": "dijera",
+				"tú": "dijeras",
+				"él/ella": "dijera",
+				"nosotros/as": "dijéramos",
+				"vosotros/as": "dijerais",
+				"ellos/ellas": "dijeran"
+			},
+			"Subjuntivo pretérito imperfecto 2": {
+				"yo": "dijese",
+				"tú": "dijeses",
+				"él/ella": "dijese",
+				"nosotros/as": "dijésemos",
+				"vosotros/as": "dijeseis",
+				"ellos/ellas": "dijesen"
+			},
+			"Subjuntivo pretérito pluscuamperfecto 1": {
+				"yo": "hubiera dicho",
+				"tú": "hubieras dicho",
+				"él/ella": "hubiera dicho",
+				"nosotros/as": "hubiéramos dicho",
+				"vosotros/as": "hubierais dicho",
+				"ellos/ellas": "hubieran dicho"
+			},
+			"Subjuntivo pretérito pluscuamperfecto 2": {
+				"yo": "hubiese dicho",
+				"tú": "hubieses dicho",
+				"él/ella": "hubiese dicho",
+				"nosotros/as": "hubiésemos dicho",
+				"vosotros/as": "hubieseis dicho",
+				"ellos/ellas": "hubiesen dicho"
+			},
+			"Subjuntivo futuro": {
+				"yo": "dijere",
+				"tú": "dijeres",
+				"él/ella": "dijere",
+				"nosotros/as": "dijéremos",
+				"vosotros/as": "dijereis",
+				"ellos/ellas": "dijeren"
+			},
+			"Subjuntivo futuro perfecto": {
+				"yo": "hubiere dicho",
+				"tú": "hubieres dicho",
+				"él/ella": "hubiere dicho",
+				"nosotros/as": "hubiéremos dicho",
+				"vosotros/as": "hubiereis dicho",
+				"ellos/ellas": "hubieren dicho"
+			}
+		},
+		"potencial": {
+			"Potencial Simple": {
+				"yo": "diría",
+				"tú": "dirías",
+				"él/ella": "diría",
+				"nosotros/as": "diríamos",
+				"vosotros/as": "diríais",
+				"ellos/ellas": "dirían"
+			},
+			"Potencial compuesto": {
+				"yo": "habría dicho",
+				"tú": "habrías dicho",
+				"él/ella": "habría dicho",
+				"nosotros/as": "habríamos dicho",
+				"vosotros/as": "habríais dicho",
+				"ellos/ellas": "habrían dicho"
+			}
+		},
+		"gerundio": {
+			"Gerundio": {
+				"general": "diciendo"
+			}
+		},
+		"participio": {
+			"Participio": {
+				"general": "dicho"
+			}
+		},
+		"imperativo": {
+			"Imperativo": {
+				"tú": "di",
+				"usted": "diga",
+				"nosotros/as": "digamos",
+				"vosotros/as": "decid",
+				"ustedes": "digan"
+			}
+		}
+	}
+}, {
+	"verb": "venir",
+	"translation": "to come, to come back, to come over",
+	"conjMoods": {
+		"indicativo": {
+			"Indicativo presente": {
+				"yo": "vengo",
+				"tú": "vienes",
+				"él/ella": "viene",
+				"nosotros/as": "venimos",
+				"vosotros/as": "venís",
+				"ellos/ellas": "vienen"
+			},
+			"Indicativo pretérito perfecto compuesto": {
+				"yo": "he venido",
+				"tú": "has venido",
+				"él/ella": "ha venido",
+				"nosotros/as": "hemos venido",
+				"vosotros/as": "habéis venido",
+				"ellos/ellas": "han venido"
+			},
+			"Indicativo pretérito imperfecto": {
+				"yo": "venía",
+				"tú": "venías",
+				"él/ella": "venía",
+				"nosotros/as": "veníamos",
+				"vosotros/as": "veníais",
+				"ellos/ellas": "venían"
+			},
+			"Indicativo pretérito pluscuamperfecto": {
+				"yo": "había venido",
+				"tú": "habías venido",
+				"él/ella": "había venido",
+				"nosotros/as": "habíamos venido",
+				"vosotros/as": "habíais venido",
+				"ellos/ellas": "habían venido"
+			},
+			"Indicativo pretérito perfecto simple": {
+				"yo": "vine",
+				"tú": "viniste",
+				"él/ella": "vino",
+				"nosotros/as": "vinimos",
+				"vosotros/as": "vinisteis",
+				"ellos/ellas": "vinieron"
+			},
+			"Indicativo pretérito anterior": {
+				"yo": "hube venido",
+				"tú": "hubiste venido",
+				"él/ella": "hubo venido",
+				"nosotros/as": "hubimos venido",
+				"vosotros/as": "hubisteis venido",
+				"ellos/ellas": "hubieron venido"
+			},
+			"Indicativo futuro": {
+				"yo": "vendré",
+				"tú": "vendrás",
+				"él/ella": "vendrá",
+				"nosotros/as": "vendremos",
+				"vosotros/as": "vendréis",
+				"ellos/ellas": "vendrán"
+			},
+			"Indicativo futuro perfecto": {
+				"yo": "habré venido",
+				"tú": "habrás venido",
+				"él/ella": "habrá venido",
+				"nosotros/as": "habremos venido",
+				"vosotros/as": "habréis venido",
+				"ellos/ellas": "habrán venido"
+			}
+		},
+		"subjuntivo": {
+			"Subjuntivo presente": {
+				"yo": "venga",
+				"tú": "vengas",
+				"él/ella": "venga",
+				"nosotros/as": "vengamos",
+				"vosotros/as": "vengáis",
+				"ellos/ellas": "vengan"
+			},
+			"Subjuntivo pretérito perfecto": {
+				"yo": "haya venido",
+				"tú": "hayas venido",
+				"él/ella": "haya venido",
+				"nosotros/as": "hayamos venido",
+				"vosotros/as": "hayáis venido",
+				"ellos/ellas": "hayan venido"
+			},
+			"Subjuntivo pretérito imperfecto 1": {
+				"yo": "viniera",
+				"tú": "vinieras",
+				"él/ella": "viniera",
+				"nosotros/as": "viniéramos",
+				"vosotros/as": "vinierais",
+				"ellos/ellas": "vinieran"
+			},
+			"Subjuntivo pretérito imperfecto 2": {
+				"yo": "viniese",
+				"tú": "vinieses",
+				"él/ella": "viniese",
+				"nosotros/as": "viniésemos",
+				"vosotros/as": "vinieseis",
+				"ellos/ellas": "viniesen"
+			},
+			"Subjuntivo pretérito pluscuamperfecto 1": {
+				"yo": "hubiera venido",
+				"tú": "hubieras venido",
+				"él/ella": "hubiera venido",
+				"nosotros/as": "hubiéramos venido",
+				"vosotros/as": "hubierais venido",
+				"ellos/ellas": "hubieran venido"
+			},
+			"Subjuntivo pretérito pluscuamperfecto 2": {
+				"yo": "hubiese venido",
+				"tú": "hubieses venido",
+				"él/ella": "hubiese venido",
+				"nosotros/as": "hubiésemos venido",
+				"vosotros/as": "hubieseis venido",
+				"ellos/ellas": "hubiesen venido"
+			},
+			"Subjuntivo futuro": {
+				"yo": "viniere",
+				"tú": "vinieres",
+				"él/ella": "viniere",
+				"nosotros/as": "viniéremos",
+				"vosotros/as": "viniereis",
+				"ellos/ellas": "vinieren"
+			},
+			"Subjuntivo futuro perfecto": {
+				"yo": "hubiere venido",
+				"tú": "hubieres venido",
+				"él/ella": "hubiere venido",
+				"nosotros/as": "hubiéremos venido",
+				"vosotros/as": "hubiereis venido",
+				"ellos/ellas": "hubieren venido"
+			}
+		},
+		"potencial": {
+			"Potencial Simple": {
+				"yo": "vendría",
+				"tú": "vendrías",
+				"él/ella": "vendría",
+				"nosotros/as": "vendríamos",
+				"vosotros/as": "vendríais",
+				"ellos/ellas": "vendrían"
+			},
+			"Potencial compuesto": {
+				"yo": "habría venido",
+				"tú": "habrías venido",
+				"él/ella": "habría venido",
+				"nosotros/as": "habríamos venido",
+				"vosotros/as": "habríais venido",
+				"ellos/ellas": "habrían venido"
+			}
+		},
+		"gerundio": {
+			"Gerundio": {
+				"general": "viniendo"
+			}
+		},
+		"participio": {
+			"Participio": {
+				"general": "venido"
+			}
+		},
+		"imperativo": {
+			"Imperativo": {
+				"tú": "ven",
+				"usted": "venga",
+				"nosotros/as": "vengamos",
+				"vosotros/as": "venid",
+				"ustedes": "vengan"
+			}
+		}
+	}
+}, {
+	"verb": "oír",
+	"translation": "to hear, to pay attention",
+	"conjMoods": {
+		"indicativo": {
+			"Indicativo presente": {
+				"yo": "oigo",
+				"tú": "oyes",
+				"él/ella": "oye",
+				"nosotros/as": "oímos",
+				"vosotros/as": "oís",
+				"ellos/ellas": "oyen"
+			},
+			"Indicativo pretérito perfecto compuesto": {
+				"yo": "he oído",
+				"tú": "has oído",
+				"él/ella": "ha oído",
+				"nosotros/as": "hemos oído",
+				"vosotros/as": "habéis oído",
+				"ellos/ellas": "han oído"
+			},
+			"Indicativo pretérito imperfecto": {
+				"yo": "oía",
+				"tú": "oías",
+				"él/ella": "oía",
+				"nosotros/as": "oíamos",
+				"vosotros/as": "oíais",
+				"ellos/ellas": "oían"
+			},
+			"Indicativo pretérito pluscuamperfecto": {
+				"yo": "había oído",
+				"tú": "habías oído",
+				"él/ella": "había oído",
+				"nosotros/as": "habíamos oído",
+				"vosotros/as": "habíais oído",
+				"ellos/ellas": "habían oído"
+			},
+			"Indicativo pretérito perfecto simple": {
+				"yo": "oí",
+				"tú": "oíste",
+				"él/ella": "oyó",
+				"nosotros/as": "oímos",
+				"vosotros/as": "oísteis",
+				"ellos/ellas": "oyeron"
+			},
+			"Indicativo pretérito anterior": {
+				"yo": "hube oído",
+				"tú": "hubiste oído",
+				"él/ella": "hubo oído",
+				"nosotros/as": "hubimos oído",
+				"vosotros/as": "hubisteis oído",
+				"ellos/ellas": "hubieron oído"
+			},
+			"Indicativo futuro": {
+				"yo": "oiré",
+				"tú": "oirás",
+				"él/ella": "oirá",
+				"nosotros/as": "oiremos",
+				"vosotros/as": "oiréis",
+				"ellos/ellas": "oirán"
+			},
+			"Indicativo futuro perfecto": {
+				"yo": "habré oído",
+				"tú": "habrás oído",
+				"él/ella": "habrá oído",
+				"nosotros/as": "habremos oído",
+				"vosotros/as": "habréis oído",
+				"ellos/ellas": "habrán oído"
+			}
+		},
+		"subjuntivo": {
+			"Subjuntivo presente": {
+				"yo": "oiga",
+				"tú": "oigas",
+				"él/ella": "oiga",
+				"nosotros/as": "oigamos",
+				"vosotros/as": "oigáis",
+				"ellos/ellas": "oigan"
+			},
+			"Subjuntivo pretérito perfecto": {
+				"yo": "haya oído",
+				"tú": "hayas oído",
+				"él/ella": "haya oído",
+				"nosotros/as": "hayamos oído",
+				"vosotros/as": "hayáis oído",
+				"ellos/ellas": "hayan oído"
+			},
+			"Subjuntivo pretérito imperfecto 1": {
+				"yo": "oyera",
+				"tú": "oyeras",
+				"él/ella": "oyera",
+				"nosotros/as": "oyéramos",
+				"vosotros/as": "oyerais",
+				"ellos/ellas": "oyeran"
+			},
+			"Subjuntivo pretérito imperfecto 2": {
+				"yo": "oyese",
+				"tú": "oyeses",
+				"él/ella": "oyese",
+				"nosotros/as": "oyésemos",
+				"vosotros/as": "oyeseis",
+				"ellos/ellas": "oyesen"
+			},
+			"Subjuntivo pretérito pluscuamperfecto 1": {
+				"yo": "hubiera oído",
+				"tú": "hubieras oído",
+				"él/ella": "hubiera oído",
+				"nosotros/as": "hubiéramos oído",
+				"vosotros/as": "hubierais oído",
+				"ellos/ellas": "hubieran oído"
+			},
+			"Subjuntivo pretérito pluscuamperfecto 2": {
+				"yo": "hubiese oído",
+				"tú": "hubieses oído",
+				"él/ella": "hubiese oído",
+				"nosotros/as": "hubiésemos oído",
+				"vosotros/as": "hubieseis oído",
+				"ellos/ellas": "hubiesen oído"
+			},
+			"Subjuntivo futuro": {
+				"yo": "oyere",
+				"tú": "oyeres",
+				"él/ella": "oyere",
+				"nosotros/as": "oyéremos",
+				"vosotros/as": "oyereis",
+				"ellos/ellas": "oyeren"
+			},
+			"Subjuntivo futuro perfecto": {
+				"yo": "hubiere oído",
+				"tú": "hubieres oído",
+				"él/ella": "hubiere oído",
+				"nosotros/as": "hubiéremos oído",
+				"vosotros/as": "hubiereis oído",
+				"ellos/ellas": "hubieren oído"
+			}
+		},
+		"potencial": {
+			"Potencial Simple": {
+				"yo": "oiría",
+				"tú": "oirías",
+				"él/ella": "oiría",
+				"nosotros/as": "oiríamos",
+				"vosotros/as": "oiríais",
+				"ellos/ellas": "oirían"
+			},
+			"Potencial compuesto": {
+				"yo": "habría oído",
+				"tú": "habrías oído",
+				"él/ella": "habría oído",
+				"nosotros/as": "habríamos oído",
+				"vosotros/as": "habríais oído",
+				"ellos/ellas": "habrían oído"
+			}
+		},
+		"gerundio": {
+			"Gerundio": {
+				"general": "oyendo"
+			}
+		},
+		"participio": {
+			"Participio": {
+				"general": "oído"
+			}
+		},
+		"imperativo": {
+			"Imperativo": {
+				"tú": "oye",
+				"usted": "oiga",
+				"nosotros/as": "oigamos",
+				"vosotros/as": "oíd",
+				"ustedes": "oigan"
+			}
+		}
+	}
+}, {
+	"verb": "poder",
+	"translation": "can, to be able, could, to branch, to be allowed, to couldn't, might, may",
+	"conjMoods": {
+		"indicativo": {
+			"Indicativo presente": {
+				"yo": "puedo",
+				"tú": "puedes",
+				"él/ella": "puede",
+				"nosotros/as": "podemos",
+				"vosotros/as": "podéis",
+				"ellos/ellas": "pueden"
+			},
+			"Indicativo pretérito perfecto compuesto": {
+				"yo": "he podido",
+				"tú": "has podido",
+				"él/ella": "ha podido",
+				"nosotros/as": "hemos podido",
+				"vosotros/as": "habéis podido",
+				"ellos/ellas": "han podido"
+			},
+			"Indicativo pretérito imperfecto": {
+				"yo": "podía",
+				"tú": "podías",
+				"él/ella": "podía",
+				"nosotros/as": "podíamos",
+				"vosotros/as": "podíais",
+				"ellos/ellas": "podían"
+			},
+			"Indicativo pretérito pluscuamperfecto": {
+				"yo": "había podido",
+				"tú": "habías podido",
+				"él/ella": "había podido",
+				"nosotros/as": "habíamos podido",
+				"vosotros/as": "habíais podido",
+				"ellos/ellas": "habían podido"
+			},
+			"Indicativo pretérito perfecto simple": {
+				"yo": "pude",
+				"tú": "pudiste",
+				"él/ella": "pudo",
+				"nosotros/as": "pudimos",
+				"vosotros/as": "pudisteis",
+				"ellos/ellas": "pudieron"
+			},
+			"Indicativo pretérito anterior": {
+				"yo": "hube podido",
+				"tú": "hubiste podido",
+				"él/ella": "hubo podido",
+				"nosotros/as": "hubimos podido",
+				"vosotros/as": "hubisteis podido",
+				"ellos/ellas": "hubieron podido"
+			},
+			"Indicativo futuro": {
+				"yo": "podré",
+				"tú": "podrás",
+				"él/ella": "podrá",
+				"nosotros/as": "podremos",
+				"vosotros/as": "podréis",
+				"ellos/ellas": "podrán"
+			},
+			"Indicativo futuro perfecto": {
+				"yo": "habré podido",
+				"tú": "habrás podido",
+				"él/ella": "habrá podido",
+				"nosotros/as": "habremos podido",
+				"vosotros/as": "habréis podido",
+				"ellos/ellas": "habrán podido"
+			}
+		},
+		"subjuntivo": {
+			"Subjuntivo presente": {
+				"yo": "pueda",
+				"tú": "puedas",
+				"él/ella": "pueda",
+				"nosotros/as": "podamos",
+				"vosotros/as": "podáis",
+				"ellos/ellas": "puedan"
+			},
+			"Subjuntivo pretérito perfecto": {
+				"yo": "haya podido",
+				"tú": "hayas podido",
+				"él/ella": "haya podido",
+				"nosotros/as": "hayamos podido",
+				"vosotros/as": "hayáis podido",
+				"ellos/ellas": "hayan podido"
+			},
+			"Subjuntivo pretérito imperfecto 1": {
+				"yo": "pudiera",
+				"tú": "pudieras",
+				"él/ella": "pudiera",
+				"nosotros/as": "pudiéramos",
+				"vosotros/as": "pudierais",
+				"ellos/ellas": "pudieran"
+			},
+			"Subjuntivo pretérito imperfecto 2": {
+				"yo": "pudiese",
+				"tú": "pudieses",
+				"él/ella": "pudiese",
+				"nosotros/as": "pudiésemos",
+				"vosotros/as": "pudieseis",
+				"ellos/ellas": "pudiesen"
+			},
+			"Subjuntivo pretérito pluscuamperfecto 1": {
+				"yo": "hubiera podido",
+				"tú": "hubieras podido",
+				"él/ella": "hubiera podido",
+				"nosotros/as": "hubiéramos podido",
+				"vosotros/as": "hubierais podido",
+				"ellos/ellas": "hubieran podido"
+			},
+			"Subjuntivo pretérito pluscuamperfecto 2": {
+				"yo": "hubiese podido",
+				"tú": "hubieses podido",
+				"él/ella": "hubiese podido",
+				"nosotros/as": "hubiésemos podido",
+				"vosotros/as": "hubieseis podido",
+				"ellos/ellas": "hubiesen podido"
+			},
+			"Subjuntivo futuro": {
+				"yo": "pudiere",
+				"tú": "pudieres",
+				"él/ella": "pudiere",
+				"nosotros/as": "pudiéremos",
+				"vosotros/as": "pudiereis",
+				"ellos/ellas": "pudieren"
+			},
+			"Subjuntivo futuro perfecto": {
+				"yo": "hubiere podido",
+				"tú": "hubieres podido",
+				"él/ella": "hubiere podido",
+				"nosotros/as": "hubiéremos podido",
+				"vosotros/as": "hubiereis podido",
+				"ellos/ellas": "hubieren podido"
+			}
+		},
+		"potencial": {
+			"Potencial Simple": {
+				"yo": "podría",
+				"tú": "podrías",
+				"él/ella": "podría",
+				"nosotros/as": "podríamos",
+				"vosotros/as": "podríais",
+				"ellos/ellas": "podrían"
+			},
+			"Potencial compuesto": {
+				"yo": "habría podido",
+				"tú": "habrías podido",
+				"él/ella": "habría podido",
+				"nosotros/as": "habríamos podido",
+				"vosotros/as": "habríais podido",
+				"ellos/ellas": "habrían podido"
+			}
+		},
+		"gerundio": {
+			"Gerundio": {
+				"general": "pudiendo"
+			}
+		},
+		"participio": {
+			"Participio": {
+				"general": "podido"
+			}
+		},
+		"imperativo": {
+			"Imperativo": {
+				"tú": "puede",
+				"usted": "pueda",
+				"nosotros/as": "podamos",
+				"vosotros/as": "poded",
+				"ustedes": "puedan"
+			}
+		}
+	}
+}, {
+	"verb": "poner",
+	"translation": "to make, to put on, to put",
+	"conjMoods": {
+		"indicativo": {
+			"Indicativo presente": {
+				"yo": "pongo",
+				"tú": "pones",
+				"él/ella": "pone",
+				"nosotros/as": "ponemos",
+				"vosotros/as": "ponéis",
+				"ellos/ellas": "ponen"
+			},
+			"Indicativo pretérito perfecto compuesto": {
+				"yo": "he puesto",
+				"tú": "has puesto",
+				"él/ella": "ha puesto",
+				"nosotros/as": "hemos puesto",
+				"vosotros/as": "habéis puesto",
+				"ellos/ellas": "han puesto"
+			},
+			"Indicativo pretérito imperfecto": {
+				"yo": "ponía",
+				"tú": "ponías",
+				"él/ella": "ponía",
+				"nosotros/as": "poníamos",
+				"vosotros/as": "poníais",
+				"ellos/ellas": "ponían"
+			},
+			"Indicativo pretérito pluscuamperfecto": {
+				"yo": "había puesto",
+				"tú": "habías puesto",
+				"él/ella": "había puesto",
+				"nosotros/as": "habíamos puesto",
+				"vosotros/as": "habíais puesto",
+				"ellos/ellas": "habían puesto"
+			},
+			"Indicativo pretérito perfecto simple": {
+				"yo": "puse",
+				"tú": "pusiste",
+				"él/ella": "puso",
+				"nosotros/as": "pusimos",
+				"vosotros/as": "pusisteis",
+				"ellos/ellas": "pusieron"
+			},
+			"Indicativo pretérito anterior": {
+				"yo": "hube puesto",
+				"tú": "hubiste puesto",
+				"él/ella": "hubo puesto",
+				"nosotros/as": "hubimos puesto",
+				"vosotros/as": "hubisteis puesto",
+				"ellos/ellas": "hubieron puesto"
+			},
+			"Indicativo futuro": {
+				"yo": "pondré",
+				"tú": "pondrás",
+				"él/ella": "pondrá",
+				"nosotros/as": "pondremos",
+				"vosotros/as": "pondréis",
+				"ellos/ellas": "pondrán"
+			},
+			"Indicativo futuro perfecto": {
+				"yo": "habré puesto",
+				"tú": "habrás puesto",
+				"él/ella": "habrá puesto",
+				"nosotros/as": "habremos puesto",
+				"vosotros/as": "habréis puesto",
+				"ellos/ellas": "habrán puesto"
+			}
+		},
+		"subjuntivo": {
+			"Subjuntivo presente": {
+				"yo": "ponga",
+				"tú": "pongas",
+				"él/ella": "ponga",
+				"nosotros/as": "pongamos",
+				"vosotros/as": "pongáis",
+				"ellos/ellas": "pongan"
+			},
+			"Subjuntivo pretérito perfecto": {
+				"yo": "haya puesto",
+				"tú": "hayas puesto",
+				"él/ella": "haya puesto",
+				"nosotros/as": "hayamos puesto",
+				"vosotros/as": "hayáis puesto",
+				"ellos/ellas": "hayan puesto"
+			},
+			"Subjuntivo pretérito imperfecto 1": {
+				"yo": "pusiera",
+				"tú": "pusieras",
+				"él/ella": "pusiera",
+				"nosotros/as": "pusiéramos",
+				"vosotros/as": "pusierais",
+				"ellos/ellas": "pusieran"
+			},
+			"Subjuntivo pretérito imperfecto 2": {
+				"yo": "pusiese",
+				"tú": "pusieses",
+				"él/ella": "pusiese",
+				"nosotros/as": "pusiésemos",
+				"vosotros/as": "pusieseis",
+				"ellos/ellas": "pusiesen"
+			},
+			"Subjuntivo pretérito pluscuamperfecto 1": {
+				"yo": "hubiera puesto",
+				"tú": "hubieras puesto",
+				"él/ella": "hubiera puesto",
+				"nosotros/as": "hubiéramos puesto",
+				"vosotros/as": "hubierais puesto",
+				"ellos/ellas": "hubieran puesto"
+			},
+			"Subjuntivo pretérito pluscuamperfecto 2": {
+				"yo": "hubiese puesto",
+				"tú": "hubieses puesto",
+				"él/ella": "hubiese puesto",
+				"nosotros/as": "hubiésemos puesto",
+				"vosotros/as": "hubieseis puesto",
+				"ellos/ellas": "hubiesen puesto"
+			},
+			"Subjuntivo futuro": {
+				"yo": "pusiere",
+				"tú": "pusieres",
+				"él/ella": "pusiere",
+				"nosotros/as": "pusiéremos",
+				"vosotros/as": "pusiereis",
+				"ellos/ellas": "pusieren"
+			},
+			"Subjuntivo futuro perfecto": {
+				"yo": "hubiere puesto",
+				"tú": "hubieres puesto",
+				"él/ella": "hubiere puesto",
+				"nosotros/as": "hubiéremos puesto",
+				"vosotros/as": "hubiereis puesto",
+				"ellos/ellas": "hubieren puesto"
+			}
+		},
+		"potencial": {
+			"Potencial Simple": {
+				"yo": "pondría",
+				"tú": "pondrías",
+				"él/ella": "pondría",
+				"nosotros/as": "pondríamos",
+				"vosotros/as": "pondríais",
+				"ellos/ellas": "pondrían"
+			},
+			"Potencial compuesto": {
+				"yo": "habría puesto",
+				"tú": "habrías puesto",
+				"él/ella": "habría puesto",
+				"nosotros/as": "habríamos puesto",
+				"vosotros/as": "habríais puesto",
+				"ellos/ellas": "habrían puesto"
+			}
+		},
+		"gerundio": {
+			"Gerundio": {
+				"general": "poniendo"
+			}
+		},
+		"participio": {
+			"Participio": {
+				"general": "puesto"
+			}
+		},
+		"imperativo": {
+			"Imperativo": {
+				"tú": "pon",
+				"usted": "ponga",
+				"nosotros/as": "pongamos",
+				"vosotros/as": "poned",
+				"ustedes": "pongan"
+			}
+		}
+	}
+}, {
+	"verb": "deber",
+	"translation": "must, to ought, ought to, shall, should, to owe",
+	"conjMoods": {
+		"indicativo": {
+			"Indicativo presente": {
+				"yo": "debo",
+				"tú": "debes",
+				"él/ella": "debe",
+				"nosotros/as": "debemos",
+				"vosotros/as": "debéis",
+				"ellos/ellas": "deben"
+			},
+			"Indicativo pretérito perfecto compuesto": {
+				"yo": "he debido",
+				"tú": "has debido",
+				"él/ella": "ha debido",
+				"nosotros/as": "hemos debido",
+				"vosotros/as": "habéis debido",
+				"ellos/ellas": "han debido"
+			},
+			"Indicativo pretérito imperfecto": {
+				"yo": "debía",
+				"tú": "debías",
+				"él/ella": "debía",
+				"nosotros/as": "debíamos",
+				"vosotros/as": "debíais",
+				"ellos/ellas": "debían"
+			},
+			"Indicativo pretérito pluscuamperfecto": {
+				"yo": "había debido",
+				"tú": "habías debido",
+				"él/ella": "había debido",
+				"nosotros/as": "habíamos debido",
+				"vosotros/as": "habíais debido",
+				"ellos/ellas": "habían debido"
+			},
+			"Indicativo pretérito perfecto simple": {
+				"yo": "debí",
+				"tú": "debiste",
+				"él/ella": "debió",
+				"nosotros/as": "debimos",
+				"vosotros/as": "debisteis",
+				"ellos/ellas": "debieron"
+			},
+			"Indicativo pretérito anterior": {
+				"yo": "hube debido",
+				"tú": "hubiste debido",
+				"él/ella": "hubo debido",
+				"nosotros/as": "hubimos debido",
+				"vosotros/as": "hubisteis debido",
+				"ellos/ellas": "hubieron debido"
+			},
+			"Indicativo futuro": {
+				"yo": "deberé",
+				"tú": "deberás",
+				"él/ella": "deberá",
+				"nosotros/as": "deberemos",
+				"vosotros/as": "deberéis",
+				"ellos/ellas": "deberán"
+			},
+			"Indicativo futuro perfecto": {
+				"yo": "habré debido",
+				"tú": "habrás debido",
+				"él/ella": "habrá debido",
+				"nosotros/as": "habremos debido",
+				"vosotros/as": "habréis debido",
+				"ellos/ellas": "habrán debido"
+			}
+		},
+		"subjuntivo": {
+			"Subjuntivo presente": {
+				"yo": "deba",
+				"tú": "debas",
+				"él/ella": "deba",
+				"nosotros/as": "debamos",
+				"vosotros/as": "debáis",
+				"ellos/ellas": "deban"
+			},
+			"Subjuntivo pretérito perfecto": {
+				"yo": "haya debido",
+				"tú": "hayas debido",
+				"él/ella": "haya debido",
+				"nosotros/as": "hayamos debido",
+				"vosotros/as": "hayáis debido",
+				"ellos/ellas": "hayan debido"
+			},
+			"Subjuntivo pretérito imperfecto 1": {
+				"yo": "debiera",
+				"tú": "debieras",
+				"él/ella": "debiera",
+				"nosotros/as": "debiéramos",
+				"vosotros/as": "debierais",
+				"ellos/ellas": "debieran"
+			},
+			"Subjuntivo pretérito imperfecto 2": {
+				"yo": "debiese",
+				"tú": "debieses",
+				"él/ella": "debiese",
+				"nosotros/as": "debiésemos",
+				"vosotros/as": "debieseis",
+				"ellos/ellas": "debiesen"
+			},
+			"Subjuntivo pretérito pluscuamperfecto 1": {
+				"yo": "hubiera debido",
+				"tú": "hubieras debido",
+				"él/ella": "hubiera debido",
+				"nosotros/as": "hubiéramos debido",
+				"vosotros/as": "hubierais debido",
+				"ellos/ellas": "hubieran debido"
+			},
+			"Subjuntivo pretérito pluscuamperfecto 2": {
+				"yo": "hubiese debido",
+				"tú": "hubieses debido",
+				"él/ella": "hubiese debido",
+				"nosotros/as": "hubiésemos debido",
+				"vosotros/as": "hubieseis debido",
+				"ellos/ellas": "hubiesen debido"
+			},
+			"Subjuntivo futuro": {
+				"yo": "debiere",
+				"tú": "debieres",
+				"él/ella": "debiere",
+				"nosotros/as": "debiéremos",
+				"vosotros/as": "debiereis",
+				"ellos/ellas": "debieren"
+			},
+			"Subjuntivo futuro perfecto": {
+				"yo": "hubiere debido",
+				"tú": "hubieres debido",
+				"él/ella": "hubiere debido",
+				"nosotros/as": "hubiéremos debido",
+				"vosotros/as": "hubiereis debido",
+				"ellos/ellas": "hubieren debido"
+			}
+		},
+		"potencial": {
+			"Potencial Simple": {
+				"yo": "debería",
+				"tú": "deberías",
+				"él/ella": "debería",
+				"nosotros/as": "deberíamos",
+				"vosotros/as": "deberíais",
+				"ellos/ellas": "deberían"
+			},
+			"Potencial compuesto": {
+				"yo": "habría debido",
+				"tú": "habrías debido",
+				"él/ella": "habría debido",
+				"nosotros/as": "habríamos debido",
+				"vosotros/as": "habríais debido",
+				"ellos/ellas": "habrían debido"
+			}
+		},
+		"gerundio": {
+			"Gerundio": {
+				"general": "debiendo"
+			}
+		},
+		"participio": {
+			"Participio": {
+				"general": "debido"
+			}
+		},
+		"imperativo": {
+			"Imperativo": {
+				"tú": "debe",
+				"usted": "deba",
+				"nosotros/as": "debamos",
+				"vosotros/as": "debed",
+				"ustedes": "deban"
+			}
+		}
+	}
+}, {
+	"verb": "dejar",
+	"translation": "to leave, to allow, to let, to abandon, to drop off, to leave off, to ditch, to forsake",
+	"conjMoods": {
+		"indicativo": {
+			"Indicativo presente": {
+				"yo": "dejo",
+				"tú": "dejas",
+				"él/ella": "deja",
+				"nosotros/as": "dejamos",
+				"vosotros/as": "dejáis",
+				"ellos/ellas": "dejan"
+			},
+			"Indicativo pretérito perfecto compuesto": {
+				"yo": "he dejado",
+				"tú": "has dejado",
+				"él/ella": "ha dejado",
+				"nosotros/as": "hemos dejado",
+				"vosotros/as": "habéis dejado",
+				"ellos/ellas": "han dejado"
+			},
+			"Indicativo pretérito imperfecto": {
+				"yo": "dejaba",
+				"tú": "dejabas",
+				"él/ella": "dejaba",
+				"nosotros/as": "dejábamos",
+				"vosotros/as": "dejabais",
+				"ellos/ellas": "dejaban"
+			},
+			"Indicativo pretérito pluscuamperfecto": {
+				"yo": "había dejado",
+				"tú": "habías dejado",
+				"él/ella": "había dejado",
+				"nosotros/as": "habíamos dejado",
+				"vosotros/as": "habíais dejado",
+				"ellos/ellas": "habían dejado"
+			},
+			"Indicativo pretérito perfecto simple": {
+				"yo": "dejé",
+				"tú": "dejaste",
+				"él/ella": "dejó",
+				"nosotros/as": "dejamos",
+				"vosotros/as": "dejasteis",
+				"ellos/ellas": "dejaron"
+			},
+			"Indicativo pretérito anterior": {
+				"yo": "hube dejado",
+				"tú": "hubiste dejado",
+				"él/ella": "hubo dejado",
+				"nosotros/as": "hubimos dejado",
+				"vosotros/as": "hubisteis dejado",
+				"ellos/ellas": "hubieron dejado"
+			},
+			"Indicativo futuro": {
+				"yo": "dejaré",
+				"tú": "dejarás",
+				"él/ella": "dejará",
+				"nosotros/as": "dejaremos",
+				"vosotros/as": "dejaréis",
+				"ellos/ellas": "dejarán"
+			},
+			"Indicativo futuro perfecto": {
+				"yo": "habré dejado",
+				"tú": "habrás dejado",
+				"él/ella": "habrá dejado",
+				"nosotros/as": "habremos dejado",
+				"vosotros/as": "habréis dejado",
+				"ellos/ellas": "habrán dejado"
+			}
+		},
+		"subjuntivo": {
+			"Subjuntivo presente": {
+				"yo": "deje",
+				"tú": "dejes",
+				"él/ella": "deje",
+				"nosotros/as": "dejemos",
+				"vosotros/as": "dejéis",
+				"ellos/ellas": "dejen"
+			},
+			"Subjuntivo pretérito perfecto": {
+				"yo": "haya dejado",
+				"tú": "hayas dejado",
+				"él/ella": "haya dejado",
+				"nosotros/as": "hayamos dejado",
+				"vosotros/as": "hayáis dejado",
+				"ellos/ellas": "hayan dejado"
+			},
+			"Subjuntivo pretérito imperfecto 1": {
+				"yo": "dejara",
+				"tú": "dejaras",
+				"él/ella": "dejara",
+				"nosotros/as": "dejáramos",
+				"vosotros/as": "dejarais",
+				"ellos/ellas": "dejaran"
+			},
+			"Subjuntivo pretérito imperfecto 2": {
+				"yo": "dejase",
+				"tú": "dejases",
+				"él/ella": "dejase",
+				"nosotros/as": "dejásemos",
+				"vosotros/as": "dejaseis",
+				"ellos/ellas": "dejasen"
+			},
+			"Subjuntivo pretérito pluscuamperfecto 1": {
+				"yo": "hubiera dejado",
+				"tú": "hubieras dejado",
+				"él/ella": "hubiera dejado",
+				"nosotros/as": "hubiéramos dejado",
+				"vosotros/as": "hubierais dejado",
+				"ellos/ellas": "hubieran dejado"
+			},
+			"Subjuntivo pretérito pluscuamperfecto 2": {
+				"yo": "hubiese dejado",
+				"tú": "hubieses dejado",
+				"él/ella": "hubiese dejado",
+				"nosotros/as": "hubiésemos dejado",
+				"vosotros/as": "hubieseis dejado",
+				"ellos/ellas": "hubiesen dejado"
+			},
+			"Subjuntivo futuro": {
+				"yo": "dejare",
+				"tú": "dejares",
+				"él/ella": "dejare",
+				"nosotros/as": "dejáremos",
+				"vosotros/as": "dejareis",
+				"ellos/ellas": "dejaren"
+			},
+			"Subjuntivo futuro perfecto": {
+				"yo": "hubiere dejado",
+				"tú": "hubieres dejado",
+				"él/ella": "hubiere dejado",
+				"nosotros/as": "hubiéremos dejado",
+				"vosotros/as": "hubiereis dejado",
+				"ellos/ellas": "hubieren dejado"
+			}
+		},
+		"potencial": {
+			"Potencial Simple": {
+				"yo": "dejaría",
+				"tú": "dejarías",
+				"él/ella": "dejaría",
+				"nosotros/as": "dejaríamos",
+				"vosotros/as": "dejaríais",
+				"ellos/ellas": "dejarían"
+			},
+			"Potencial compuesto": {
+				"yo": "habría dejado",
+				"tú": "habrías dejado",
+				"él/ella": "habría dejado",
+				"nosotros/as": "habríamos dejado",
+				"vosotros/as": "habríais dejado",
+				"ellos/ellas": "habrían dejado"
+			}
+		},
+		"gerundio": {
+			"Gerundio": {
+				"general": "dejando"
+			}
+		},
+		"participio": {
+			"Participio": {
+				"general": "dejado"
+			}
+		},
+		"imperativo": {
+			"Imperativo": {
+				"tú": "deja",
+				"usted": "deje",
+				"nosotros/as": "dejemos",
+				"vosotros/as": "dejad",
+				"ustedes": "dejen"
+			}
+		}
+	}
+}, {
+	"verb": "saber",
+	"translation": "to know",
+	"conjMoods": {
+		"indicativo": {
+			"Indicativo presente": {
+				"yo": "sé",
+				"tú": "sabes",
+				"él/ella": "sabe",
+				"nosotros/as": "sabemos",
+				"vosotros/as": "sabéis",
+				"ellos/ellas": "saben"
+			},
+			"Indicativo pretérito perfecto compuesto": {
+				"yo": "he sabido",
+				"tú": "has sabido",
+				"él/ella": "ha sabido",
+				"nosotros/as": "hemos sabido",
+				"vosotros/as": "habéis sabido",
+				"ellos/ellas": "han sabido"
+			},
+			"Indicativo pretérito imperfecto": {
+				"yo": "sabía",
+				"tú": "sabías",
+				"él/ella": "sabía",
+				"nosotros/as": "sabíamos",
+				"vosotros/as": "sabíais",
+				"ellos/ellas": "sabían"
+			},
+			"Indicativo pretérito pluscuamperfecto": {
+				"yo": "había sabido",
+				"tú": "habías sabido",
+				"él/ella": "había sabido",
+				"nosotros/as": "habíamos sabido",
+				"vosotros/as": "habíais sabido",
+				"ellos/ellas": "habían sabido"
+			},
+			"Indicativo pretérito perfecto simple": {
+				"yo": "supe",
+				"tú": "supiste",
+				"él/ella": "supo",
+				"nosotros/as": "supimos",
+				"vosotros/as": "supisteis",
+				"ellos/ellas": "supieron"
+			},
+			"Indicativo pretérito anterior": {
+				"yo": "hube sabido",
+				"tú": "hubiste sabido",
+				"él/ella": "hubo sabido",
+				"nosotros/as": "hubimos sabido",
+				"vosotros/as": "hubisteis sabido",
+				"ellos/ellas": "hubieron sabido"
+			},
+			"Indicativo futuro": {
+				"yo": "sabría",
+				"tú": "sabrías",
+				"él/ella": "sabría",
+				"nosotros/as": "sabríamos",
+				"vosotros/as": "sabríais",
+				"ellos/ellas": "sabrían"
+			},
+			"Indicativo futuro perfecto": {
+				"yo": "habré sabido",
+				"tú": "habrás sabido",
+				"él/ella": "habrá sabido",
+				"nosotros/as": "habremos sabido",
+				"vosotros/as": "habréis sabido",
+				"ellos/ellas": "habrán sabido"
+			}
+		},
+		"subjuntivo": {
+			"Subjuntivo presente": {
+				"yo": "sepa",
+				"tú": "sepas",
+				"él/ella": "sepa",
+				"nosotros/as": "sepamos",
+				"vosotros/as": "sepáis",
+				"ellos/ellas": "sepan"
+			},
+			"Subjuntivo pretérito perfecto": {
+				"yo": "haya sabido",
+				"tú": "hayas sabido",
+				"él/ella": "haya sabido",
+				"nosotros/as": "hayamos sabido",
+				"vosotros/as": "hayáis sabido",
+				"ellos/ellas": "hayan sabido"
+			},
+			"Subjuntivo pretérito imperfecto 1": {
+				"yo": "supiera",
+				"tú": "supieras",
+				"él/ella": "supiera",
+				"nosotros/as": "supiéramos",
+				"vosotros/as": "supierais",
+				"ellos/ellas": "supieran"
+			},
+			"Subjuntivo pretérito imperfecto 2": {
+				"yo": "supiese",
+				"tú": "supieses",
+				"él/ella": "supiese",
+				"nosotros/as": "supiésemos",
+				"vosotros/as": "supieseis",
+				"ellos/ellas": "supiesen"
+			},
+			"Subjuntivo pretérito pluscuamperfecto 1": {
+				"yo": "hubiera sabido",
+				"tú": "hubieras sabido",
+				"él/ella": "hubiera sabido",
+				"nosotros/as": "hubiéramos sabido",
+				"vosotros/as": "hubierais sabido",
+				"ellos/ellas": "hubieran sabido"
+			},
+			"Subjuntivo pretérito pluscuamperfecto 2": {
+				"yo": "hubiese sabido",
+				"tú": "hubieses sabido",
+				"él/ella": "hubiese sabido",
+				"nosotros/as": "hubiésemos sabido",
+				"vosotros/as": "hubieseis sabido",
+				"ellos/ellas": "hubiesen sabido"
+			},
+			"Subjuntivo futuro": {
+				"yo": "supiere",
+				"tú": "supieres",
+				"él/ella": "supiere",
+				"nosotros/as": "supiéremos",
+				"vosotros/as": "supiereis",
+				"ellos/ellas": "supieren"
+			},
+			"Subjuntivo futuro perfecto": {
+				"yo": "hubiere sabido",
+				"tú": "hubieres sabido",
+				"él/ella": "hubiere sabido",
+				"nosotros/as": "hubiéremos sabido",
+				"vosotros/as": "hubiereis sabido",
+				"ellos/ellas": "hubieren sabido"
+			}
+		},
+		"potencial": {
+			"Potencial Simple": {
+				"yo": "sabría",
+				"tú": "sabrías",
+				"él/ella": "sabría",
+				"nosotros/as": "sabríamos",
+				"vosotros/as": "sabríais",
+				"ellos/ellas": "sabrían"
+			},
+			"Potencial compuesto": {
+				"yo": "habría sabido",
+				"tú": "habrías sabido",
+				"él/ella": "habría sabido",
+				"nosotros/as": "habríamos sabido",
+				"vosotros/as": "habríais sabido",
+				"ellos/ellas": "habrían sabido"
+			}
+		},
+		"gerundio": {
+			"Gerundio": {
+				"general": "sabiendo"
+			}
+		},
+		"participio": {
+			"Participio": {
+				"general": "sabido"
+			}
+		},
+		"imperativo": {
+			"Imperativo": {
+				"tú": "sabe",
+				"usted": "sepa",
+				"nosotros/as": "sepamos",
+				"vosotros/as": "sabed",
+				"ustedes": "sepan"
+			}
+		}
+	}
+}]
