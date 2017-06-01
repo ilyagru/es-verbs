@@ -25,7 +25,7 @@ class App extends Component {
     }
 
     componentDidMount() {
-        fetch('/data/verbs.json')
+        fetch('./data/verbs.json')
             .then(response => response.json())
             .then(data => this.setState({ verbsData: data }))
             .catch(error => console.log(error));
