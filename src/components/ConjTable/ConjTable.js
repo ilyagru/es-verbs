@@ -18,7 +18,6 @@ function ConjTable({ conjMoods, currentMood }) {
                 <ConjBlock tenseName={tenseName} tenseForms={tenseForms} key={index} />
             );
         });
-
     }
 
     return (

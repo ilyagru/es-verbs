@@ -18,6 +18,7 @@ For detailed explanation on how things work, checkout the [guide](https://github
 The app uses my own data collected from over the Internet.
 For now a few most used verbs such as *ser*, *ir*, *estar*, *poder*, etc. were added. More will be added later.
 
+Pull requests with more verbs are welcome!
 
 ## Build Setup
 
